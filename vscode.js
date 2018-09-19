@@ -1,8 +1,8 @@
 {
-  "window.zoomLevel": -1,
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontSize": 29,
-  "editor.lineHeight": 40,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Monaco, Menlo, Operator Mono, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 28,
   "editor.letterSpacing": 0.5,
   "workbench.editor.tabSizing": "shrink",
   "html.format.enable": true,
@@ -11,7 +11,7 @@
   "editor.tabSize": 2,
   // this isn't really underline but we hack it to be a thicker cursor
   "editor.cursorStyle": "line",
-  "editor.cursorWidth": 3, 
+  "editor.cursorWidth": 3,
   "editor.wordWrap": "on",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.fontWeight": "400",
